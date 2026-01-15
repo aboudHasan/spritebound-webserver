@@ -1,3 +1,5 @@
+https://www.linkedin.com/feed/update/urn:li:activity:7407300026747682816/
+
 web server for gps rpg
 
 serves zip file of tile vector art binaries
